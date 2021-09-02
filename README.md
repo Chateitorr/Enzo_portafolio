@@ -9,6 +9,6 @@ las clases impartidas por el profesor Javier Gomez.
 
 ## Proyecto 2 - [Reporte de RR.HH](https://app.powerbi.com/view?r=eyJrIjoiYzU5NzNlNDQtNjM4OC00NjczLThlMWEtMjlhNDI5ZjkzYjZkIiwidCI6Ijk5ZDI0MWM3LTMxZDYtNDA2ZS05MTRhLTdlYjMxOWZiZGNjMSJ9)
 - Pag 1: Análisis de colaboradores segmentados por Edad, Sueldo, Evaluación, Departamento y Género.
-- Pag 2: análisis de Sueldos de colaboradores segmentados por Edad, Departamento y Género.
-- Pag 3: Análisi de desempeño de colaboradores segmentado por Jefe, Género y Departamento.
+- Pag 2: Análisis de Sueldos de colaboradores segmentados por Edad, Departamento y Género.
+- Pag 3: Análisis de desempeño de colaboradores segmentado por Jefe, Género y Departamento.
 
