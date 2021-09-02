@@ -1,6 +1,6 @@
 # Proyectos en Power BI
 Se presentan una seguidilla de links presentando algunos proyectos basados en
-las clases impratidas por el profesor Javier Gomez desde la plataforma UDEMY.
+las clases impartidas por el profesor Javier Gomez desde la plataforma UDEMY.
 
 * Proyecto 1 - Indicadores Mundiales 
 https://app.powerbi.com/view?r=eyJrIjoiMWJiNGQ3ODItNDZlMi00YWJkLWI4ODQtYWQ1ZmU3NDFkNGIwIiwidCI6Ijk5ZDI0MWM3LTMxZDYtNDA2ZS05MTRhLTdlYjMxOWZiZGNjMSJ9
