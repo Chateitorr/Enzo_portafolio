@@ -1,6 +1,6 @@
 # Proyectos en Power BI
 Se presentan una seguidilla de links (más en el futuro) presentando algunos proyectos basados en
-las clases impartidas por el profesor Javier Gomez.
+las clases impartidas por el profesor Javier Gomez de [DatData](https://datdata.io/)
 
 ## Proyecto 1 - [Indicadores Mundiales](https://app.powerbi.com/view?r=eyJrIjoiMWJiNGQ3ODItNDZlMi00YWJkLWI4ODQtYWQ1ZmU3NDFkNGIwIiwidCI6Ijk5ZDI0MWM3LTMxZDYtNDA2ZS05MTRhLTdlYjMxOWZiZGNjMSJ9)
 - Pag 1: Análisis de población mundial por Continentes y Países.
