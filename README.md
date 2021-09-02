@@ -1,5 +1,5 @@
 # Proyectos en Power BI
-Se presentan una seguidilla de links presentando algunos proyectos basados en
+Se presentan una seguidilla de links (más en el futuro) presentando algunos proyectos basados en
 las clases impartidas por el profesor Javier Gomez desde la plataforma UDEMY.
 
 * Proyecto 1 - Indicadores Mundiales 
