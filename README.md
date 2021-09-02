@@ -4,7 +4,7 @@ las clases impartidas por el profesor Javier Gomez de [DatData](https://datdata.
 
 ## Proyecto 1 - [Indicadores Mundiales](https://app.powerbi.com/view?r=eyJrIjoiMWJiNGQ3ODItNDZlMi00YWJkLWI4ODQtYWQ1ZmU3NDFkNGIwIiwidCI6Ijk5ZDI0MWM3LTMxZDYtNDA2ZS05MTRhLTdlYjMxOWZiZGNjMSJ9)
 - Pag 1: Análisis de población mundial por Continentes y Países.
-- pag 2: Análisis de Esperanza de vida y Mortalidad Infantil por continentes
+- Pag 2: Análisis de Esperanza de vida y Mortalidad Infantil por continentes
 
 
 ## Proyecto 2 - [Reporte de RR.HH](https://app.powerbi.com/view?r=eyJrIjoiYzU5NzNlNDQtNjM4OC00NjczLThlMWEtMjlhNDI5ZjkzYjZkIiwidCI6Ijk5ZDI0MWM3LTMxZDYtNDA2ZS05MTRhLTdlYjMxOWZiZGNjMSJ9)
