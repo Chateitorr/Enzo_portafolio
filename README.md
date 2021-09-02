@@ -1,2 +1,11 @@
-# PowerBI_Chateitorr
-Proyectos en Power BI
+# Proyectos en Power BI
+Se presentan una seguidilla de links presentando algunos proyectos basados en
+las clases impratidas por el profesor Javier Gomez desde la plataforma UDEMY.
+
+* Proyecto 1 - Indicadores Mundiales 
+https://app.powerbi.com/view?r=eyJrIjoiMWJiNGQ3ODItNDZlMi00YWJkLWI4ODQtYWQ1ZmU3NDFkNGIwIiwidCI6Ijk5ZDI0MWM3LTMxZDYtNDA2ZS05MTRhLTdlYjMxOWZiZGNjMSJ9
+
+
+* Proyecto 2 - Reporte de RR.HH
+https://app.powerbi.com/view?r=eyJrIjoiYzU5NzNlNDQtNjM4OC00NjczLThlMWEtMjlhNDI5ZjkzYjZkIiwidCI6Ijk5ZDI0MWM3LTMxZDYtNDA2ZS05MTRhLTdlYjMxOWZiZGNjMSJ9
+
