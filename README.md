@@ -1,6 +1,6 @@
 # Proyectos en Power BI 
 Se presentan una seguidilla de links (más proyectos en el futuro) presentando algunos proyectos basados en
-las clases impartidas por el profesor Javier Gomez de [DatData](https://datdata.io/)
+las clases impartidas por el profesor Javier Gomez de [DatData](https://datdata.io/) en la plataforma de aprendizaje Udemy.
 
 Todos los proyectos se realizan bajo el siguiente proceso:
 1. Obtención de Datos
